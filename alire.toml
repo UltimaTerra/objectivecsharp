@@ -1,0 +1,10 @@
+name = "objectivecsharp"
+description = "A general purpose, systems language for transparent development."
+version = "0.1.0-dev"
+
+authors = ["Nicol Farran Terra"]
+maintainers = ["Nicol Farran Terra <nicolterramaze@gmail.com>"]
+maintainers-logins = ["UltimaTerra"]
+licenses = "MPL-2.0"
+website = ""
+tags = ["proglang", "vm", "ihateapple", "ihatepms"]
